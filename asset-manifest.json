@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "https://nih-fmrif.github.io/sharestats/static/css/main.5f361e03.chunk.css",
-    "main.js": "https://nih-fmrif.github.io/sharestats/static/js/main.ebffa10d.chunk.js",
-    "main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/main.ebffa10d.chunk.js.map",
+    "main.js": "https://nih-fmrif.github.io/sharestats/static/js/main.2472a8a6.chunk.js",
+    "main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/main.2472a8a6.chunk.js.map",
     "runtime-main.js": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js",
     "runtime-main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js.map",
-    "static/js/2.65209fa5.chunk.js": "https://nih-fmrif.github.io/sharestats/static/js/2.65209fa5.chunk.js",
-    "static/js/2.65209fa5.chunk.js.map": "https://nih-fmrif.github.io/sharestats/static/js/2.65209fa5.chunk.js.map",
+    "static/js/2.8dcc4d3a.chunk.js": "https://nih-fmrif.github.io/sharestats/static/js/2.8dcc4d3a.chunk.js",
+    "static/js/2.8dcc4d3a.chunk.js.map": "https://nih-fmrif.github.io/sharestats/static/js/2.8dcc4d3a.chunk.js.map",
     "index.html": "https://nih-fmrif.github.io/sharestats/index.html",
-    "precache-manifest.dffc7bd09b303ccef41652a20dd78f67.js": "https://nih-fmrif.github.io/sharestats/precache-manifest.dffc7bd09b303ccef41652a20dd78f67.js",
+    "precache-manifest.a57ed48179ce554dcb9c097c8b432515.js": "https://nih-fmrif.github.io/sharestats/precache-manifest.a57ed48179ce554dcb9c097c8b432515.js",
     "service-worker.js": "https://nih-fmrif.github.io/sharestats/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "https://nih-fmrif.github.io/sharestats/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.65209fa5.chunk.js.LICENSE.txt": "https://nih-fmrif.github.io/sharestats/static/js/2.65209fa5.chunk.js.LICENSE.txt",
+    "static/js/2.8dcc4d3a.chunk.js.LICENSE.txt": "https://nih-fmrif.github.io/sharestats/static/js/2.8dcc4d3a.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "https://nih-fmrif.github.io/sharestats/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dcc49af7.js",
-    "static/js/2.65209fa5.chunk.js",
+    "static/js/2.8dcc4d3a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ebffa10d.chunk.js"
+    "static/js/main.2472a8a6.chunk.js"
   ]
 }
