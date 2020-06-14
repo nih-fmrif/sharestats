@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://nih-fmrif.github.io/sharestats/static/css/main.5f361e03.chunk.css",
-    "main.js": "https://nih-fmrif.github.io/sharestats/static/js/main.b6014852.chunk.js",
-    "main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/main.b6014852.chunk.js.map",
-    "runtime-main.js": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js",
-    "runtime-main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js.map",
-    "static/js/2.8dcc4d3a.chunk.js": "https://nih-fmrif.github.io/sharestats/static/js/2.8dcc4d3a.chunk.js",
-    "static/js/2.8dcc4d3a.chunk.js.map": "https://nih-fmrif.github.io/sharestats/static/js/2.8dcc4d3a.chunk.js.map",
-    "index.html": "https://nih-fmrif.github.io/sharestats/index.html",
-    "precache-manifest.6a1f5e370afafb0a1cf624c405bddcce.js": "https://nih-fmrif.github.io/sharestats/precache-manifest.6a1f5e370afafb0a1cf624c405bddcce.js",
-    "service-worker.js": "https://nih-fmrif.github.io/sharestats/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "https://nih-fmrif.github.io/sharestats/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8dcc4d3a.chunk.js.LICENSE.txt": "https://nih-fmrif.github.io/sharestats/static/js/2.8dcc4d3a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "https://nih-fmrif.github.io/sharestats/static/media/logo.5d5d9eef.svg"
+    "main.css": "/sharestats/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sharestats/static/js/main.3390e862.chunk.js",
+    "main.js.map": "/sharestats/static/js/main.3390e862.chunk.js.map",
+    "runtime-main.js": "/sharestats/static/js/runtime-main.0b74370d.js",
+    "runtime-main.js.map": "/sharestats/static/js/runtime-main.0b74370d.js.map",
+    "static/js/2.8dcc4d3a.chunk.js": "/sharestats/static/js/2.8dcc4d3a.chunk.js",
+    "static/js/2.8dcc4d3a.chunk.js.map": "/sharestats/static/js/2.8dcc4d3a.chunk.js.map",
+    "index.html": "/sharestats/index.html",
+    "precache-manifest.a8b3d723ce38f3a0cb853380476cf488.js": "/sharestats/precache-manifest.a8b3d723ce38f3a0cb853380476cf488.js",
+    "service-worker.js": "/sharestats/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sharestats/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8dcc4d3a.chunk.js.LICENSE.txt": "/sharestats/static/js/2.8dcc4d3a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sharestats/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcc49af7.js",
+    "static/js/runtime-main.0b74370d.js",
     "static/js/2.8dcc4d3a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b6014852.chunk.js"
+    "static/js/main.3390e862.chunk.js"
   ]
 }
