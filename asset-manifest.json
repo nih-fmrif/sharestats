@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://nih-fmrif.github.io/sharestats/static/css/main.d68c5cd1.chunk.css",
-    "main.js": "https://nih-fmrif.github.io/sharestats/static/js/main.0d058ec4.chunk.js",
-    "main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/main.0d058ec4.chunk.js.map",
+    "main.js": "https://nih-fmrif.github.io/sharestats/static/js/main.70fc3c8d.chunk.js",
+    "main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/main.70fc3c8d.chunk.js.map",
     "runtime-main.js": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js",
     "runtime-main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js.map",
     "static/js/2.f63f190c.chunk.js": "https://nih-fmrif.github.io/sharestats/static/js/2.f63f190c.chunk.js",
     "static/js/2.f63f190c.chunk.js.map": "https://nih-fmrif.github.io/sharestats/static/js/2.f63f190c.chunk.js.map",
     "index.html": "https://nih-fmrif.github.io/sharestats/index.html",
-    "precache-manifest.b6da5e5b7ece26891c3a976d60ccde14.js": "https://nih-fmrif.github.io/sharestats/precache-manifest.b6da5e5b7ece26891c3a976d60ccde14.js",
+    "precache-manifest.bbc0fa7f9fac5227859f599edc02f670.js": "https://nih-fmrif.github.io/sharestats/precache-manifest.bbc0fa7f9fac5227859f599edc02f670.js",
     "service-worker.js": "https://nih-fmrif.github.io/sharestats/service-worker.js",
     "static/css/main.d68c5cd1.chunk.css.map": "https://nih-fmrif.github.io/sharestats/static/css/main.d68c5cd1.chunk.css.map",
     "static/js/2.f63f190c.chunk.js.LICENSE.txt": "https://nih-fmrif.github.io/sharestats/static/js/2.f63f190c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dcc49af7.js",
     "static/js/2.f63f190c.chunk.js",
     "static/css/main.d68c5cd1.chunk.css",
-    "static/js/main.0d058ec4.chunk.js"
+    "static/js/main.70fc3c8d.chunk.js"
   ]
 }
