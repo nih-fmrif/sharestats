@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://nih-fmrif.github.io/sharestats/static/css/main.d68c5cd1.chunk.css",
-    "main.js": "https://nih-fmrif.github.io/sharestats/static/js/main.0b6927d8.chunk.js",
-    "main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/main.0b6927d8.chunk.js.map",
+    "main.js": "https://nih-fmrif.github.io/sharestats/static/js/main.61af1317.chunk.js",
+    "main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/main.61af1317.chunk.js.map",
     "runtime-main.js": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js",
     "runtime-main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js.map",
-    "static/js/2.401ef94f.chunk.js": "https://nih-fmrif.github.io/sharestats/static/js/2.401ef94f.chunk.js",
-    "static/js/2.401ef94f.chunk.js.map": "https://nih-fmrif.github.io/sharestats/static/js/2.401ef94f.chunk.js.map",
+    "static/js/2.42d00b41.chunk.js": "https://nih-fmrif.github.io/sharestats/static/js/2.42d00b41.chunk.js",
+    "static/js/2.42d00b41.chunk.js.map": "https://nih-fmrif.github.io/sharestats/static/js/2.42d00b41.chunk.js.map",
     "index.html": "https://nih-fmrif.github.io/sharestats/index.html",
-    "precache-manifest.ff000db68474292bd9aba1a1d42ec253.js": "https://nih-fmrif.github.io/sharestats/precache-manifest.ff000db68474292bd9aba1a1d42ec253.js",
+    "precache-manifest.75fbd5f9013cabc5725588d1d38dc62e.js": "https://nih-fmrif.github.io/sharestats/precache-manifest.75fbd5f9013cabc5725588d1d38dc62e.js",
     "service-worker.js": "https://nih-fmrif.github.io/sharestats/service-worker.js",
     "static/css/main.d68c5cd1.chunk.css.map": "https://nih-fmrif.github.io/sharestats/static/css/main.d68c5cd1.chunk.css.map",
-    "static/js/2.401ef94f.chunk.js.LICENSE.txt": "https://nih-fmrif.github.io/sharestats/static/js/2.401ef94f.chunk.js.LICENSE.txt"
+    "static/js/2.42d00b41.chunk.js.LICENSE.txt": "https://nih-fmrif.github.io/sharestats/static/js/2.42d00b41.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dcc49af7.js",
-    "static/js/2.401ef94f.chunk.js",
+    "static/js/2.42d00b41.chunk.js",
     "static/css/main.d68c5cd1.chunk.css",
-    "static/js/main.0b6927d8.chunk.js"
+    "static/js/main.61af1317.chunk.js"
   ]
 }
