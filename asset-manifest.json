@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://nih-fmrif.github.io/sharestats/static/css/main.01786f30.chunk.css",
-    "main.js": "https://nih-fmrif.github.io/sharestats/static/js/main.8ab010ed.chunk.js",
-    "main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/main.8ab010ed.chunk.js.map",
+    "main.css": "https://nih-fmrif.github.io/sharestats/static/css/main.3a51b8fd.chunk.css",
+    "main.js": "https://nih-fmrif.github.io/sharestats/static/js/main.2ca2dbc2.chunk.js",
+    "main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/main.2ca2dbc2.chunk.js.map",
     "runtime-main.js": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js",
     "runtime-main.js.map": "https://nih-fmrif.github.io/sharestats/static/js/runtime-main.dcc49af7.js.map",
     "static/js/2.6ac28275.chunk.js": "https://nih-fmrif.github.io/sharestats/static/js/2.6ac28275.chunk.js",
     "static/js/2.6ac28275.chunk.js.map": "https://nih-fmrif.github.io/sharestats/static/js/2.6ac28275.chunk.js.map",
     "index.html": "https://nih-fmrif.github.io/sharestats/index.html",
-    "precache-manifest.48f3b61707e9553b20301dfa7e29f24f.js": "https://nih-fmrif.github.io/sharestats/precache-manifest.48f3b61707e9553b20301dfa7e29f24f.js",
+    "precache-manifest.31af0c0568e602882079a6fd0ae5a3b5.js": "https://nih-fmrif.github.io/sharestats/precache-manifest.31af0c0568e602882079a6fd0ae5a3b5.js",
     "service-worker.js": "https://nih-fmrif.github.io/sharestats/service-worker.js",
-    "static/css/main.01786f30.chunk.css.map": "https://nih-fmrif.github.io/sharestats/static/css/main.01786f30.chunk.css.map",
+    "static/css/main.3a51b8fd.chunk.css.map": "https://nih-fmrif.github.io/sharestats/static/css/main.3a51b8fd.chunk.css.map",
     "static/js/2.6ac28275.chunk.js.LICENSE.txt": "https://nih-fmrif.github.io/sharestats/static/js/2.6ac28275.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dcc49af7.js",
     "static/js/2.6ac28275.chunk.js",
-    "static/css/main.01786f30.chunk.css",
-    "static/js/main.8ab010ed.chunk.js"
+    "static/css/main.3a51b8fd.chunk.css",
+    "static/js/main.2ca2dbc2.chunk.js"
   ]
 }
