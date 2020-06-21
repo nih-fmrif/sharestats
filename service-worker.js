@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://nih-fmrif.github.io/sharestats/precache-manifest.e95a354ca589c4e880043f1736c5ec8a.js"
+  "https://nih-fmrif.github.io/sharestats/precache-manifest.b449a7e0399c9d54b3dc6ccc5024d3b9.js"
 );
 
 self.addEventListener('message', (event) => {
