@@ -18,5 +18,11 @@ Our data is sourced from NIH's [Pubmed Central](https://www.ncbi.nlm.nih.gov/pmc
 ## Why can't I find my paper?
 The most likely reason is that the paper is not listed as the product of an NIMH funded grant. In future releases we will try to incorporate more data sources. 
 
+## Why are you only including NIMH funded investigators and the papers they cite in their grants? Why not expand to all of neuroimaging/neuroscience/science?
+Partly becuase NIMH is our employer. And partly becuase it puts some managable boundaries on the problem. The link between publications and grants (provided by NIH Reporter) also means that we don't have to deal with the difficult problem of author resolution. 
+
+## Can I help/contribute?
+Absolutely! We would love to see this grow into a community effort. All of our data and code is publically available.
+
 ## I have another question that's not addressed here.
 We're looking for any and all feedback so please don't hesitate to open an [issue](https://github.com/nih-fmrif/sharestats/issues) on this repo or send a direct message on twitter to [Adam Thomas](https://twitter.com/damadam) and/or [Travis Riddle](https://twitter.com/triddle42)
